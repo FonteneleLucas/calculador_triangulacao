@@ -12,3 +12,11 @@ Com o Python instalado, para executar:
 As colunas latitude_p1, longitude_p1, latitude_p2, longitude_p2, latitude_p3, longitude_p3 devem conter as coordenadas de três pontos representados por P1, P2 e P3.
 
 As colunas dist_p1, dist_p2, dist_p3 devem conter as distâncias dos pontos P1, P2 e P3 ao ponto de interseção que deseja calcular.
+
+Imagens:
+
+Método:
+<img width="564" alt="geogebra_modelo" src="https://github.com/FonteneleLucas/calculador_triangulacao/assets/18284262/15705188-6386-45d8-a974-577a3e5d1d23">
+
+Input:
+<img width="613" alt="csv_input" src="https://github.com/FonteneleLucas/calculador_triangulacao/assets/18284262/f4207875-6fd8-4acf-a42b-a2254f523d72">
